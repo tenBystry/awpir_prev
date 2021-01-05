@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/awpir_prev/precache-manifest.83ccc4a10fcc8589b4606595ea3f9f3d.js"
+  "/awpir_prev/precache-manifest.803c232bf7a6196c25cb7311941abe91.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "awpir"});
