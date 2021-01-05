@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "02dca7f6401ce3aec794",
-    "url": "/awpir_prev/css/app.bdb17ca2.css"
+    "revision": "43d648eb14a3d2a0e0a2",
+    "url": "/awpir_prev/css/app.8fa7cc93.css"
   },
   {
     "revision": "1ddb56ca9a9dfa58e520",
@@ -96,12 +96,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/awpir_prev/img/team/portrait_4_min.jpg"
   },
   {
-    "revision": "c34cd138de076a774e478d47b0a482a7",
+    "revision": "cc1c79615326db099409a7bb9fe201fa",
     "url": "/awpir_prev/index.html"
   },
   {
-    "revision": "02dca7f6401ce3aec794",
-    "url": "/awpir_prev/js/app.9c4c427e.js"
+    "revision": "43d648eb14a3d2a0e0a2",
+    "url": "/awpir_prev/js/app.6a311259.js"
   },
   {
     "revision": "1ddb56ca9a9dfa58e520",
