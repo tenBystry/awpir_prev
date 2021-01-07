@@ -1,27 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "719acbdbf01e39d22a98",
-    "url": "/awpir_prev/css/app.8fa7cc93.css"
+    "revision": "b17dbe6b7b57b1967a9d",
+    "url": "/awpir_prev/css/app.8f92fa78.css"
   },
   {
-    "revision": "1ddb56ca9a9dfa58e520",
-    "url": "/awpir_prev/css/chunk-vendors.d2cad4ba.css"
+    "revision": "74c33206363925284e6c",
+    "url": "/awpir_prev/css/chunk-vendors.7efe8750.css"
   },
   {
     "revision": "ab8b30cb93ee946794a777524ad30077",
     "url": "/awpir_prev/img/hands.jpg"
   },
   {
+    "revision": "22baa835dafa1f37a3b290163eec48b3",
+    "url": "/awpir_prev/img/hands.svg"
+  },
+  {
     "revision": "c5a4e9315a99b58879d0299ab778fa47",
     "url": "/awpir_prev/img/hands_min.jpg"
   },
   {
-    "revision": "51e3ea3cbb737eb58062e6dbc41d687e",
-    "url": "/awpir_prev/img/logo_app.51e3ea3c.svg"
+    "revision": "f4b009f23da62e59d1442504a0b6a483",
+    "url": "/awpir_prev/img/live.svg"
+  },
+  {
+    "revision": "d8d2c4aa4b15f95524fb4b29584edeb7",
+    "url": "/awpir_prev/img/logo_app.d8d2c4aa.svg"
   },
   {
     "revision": "937663105d921ec800ee4daa1327e11d",
     "url": "/awpir_prev/img/logo_bg.svg"
+  },
+  {
+    "revision": "2947c34e5afb0254605bcd41f18c20a5",
+    "url": "/awpir_prev/img/logo_white.2947c34e.svg"
   },
   {
     "revision": "24ea105fb1400a277a56ed691047a49e",
@@ -96,16 +108,40 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/awpir_prev/img/team/portrait_4_min.jpg"
   },
   {
-    "revision": "fc7a7aad1ce9e7a896d70497cdeaef8e",
+    "revision": "184678318a4bf74dbc04527819fdc92c",
+    "url": "/awpir_prev/img/value_1.jpg"
+  },
+  {
+    "revision": "c72271f222dfb66ee8fecc31e8737acc",
+    "url": "/awpir_prev/img/value_1.svg"
+  },
+  {
+    "revision": "c6594300ad1aab64378e120e042e5c37",
+    "url": "/awpir_prev/img/value_2.jpg"
+  },
+  {
+    "revision": "f37fc3c627205a0af343941bd23ee825",
+    "url": "/awpir_prev/img/value_2.svg"
+  },
+  {
+    "revision": "6b84033861e5f8425f39fa68f7c9ce8a",
+    "url": "/awpir_prev/img/value_3.jpg"
+  },
+  {
+    "revision": "379c0124fe676065b756a0da8c0d2996",
+    "url": "/awpir_prev/img/value_3.svg"
+  },
+  {
+    "revision": "9eebf01734ee259407545a14599e548f",
     "url": "/awpir_prev/index.html"
   },
   {
-    "revision": "719acbdbf01e39d22a98",
-    "url": "/awpir_prev/js/app.e4527936.js"
+    "revision": "b17dbe6b7b57b1967a9d",
+    "url": "/awpir_prev/js/app.79d27e52.js"
   },
   {
-    "revision": "1ddb56ca9a9dfa58e520",
-    "url": "/awpir_prev/js/chunk-vendors.4f70c21d.js"
+    "revision": "74c33206363925284e6c",
+    "url": "/awpir_prev/js/chunk-vendors.c0fe4ed2.js"
   },
   {
     "revision": "707363e79b2fb90065c88dd1db39f12b",
