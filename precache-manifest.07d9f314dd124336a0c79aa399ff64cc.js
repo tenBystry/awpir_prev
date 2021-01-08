@@ -44,62 +44,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/awpir_prev/img/monitor.png"
   },
   {
-    "revision": "4ecb13fe6bb430671f77cffc71c11a5d",
-    "url": "/awpir_prev/img/pwa/152.png"
-  },
-  {
-    "revision": "d4f3d3811c047a6a0bdab72329f03a84",
-    "url": "/awpir_prev/img/pwa/167.png"
-  },
-  {
-    "revision": "b1fd09f02ce8bda7e3cbcd1ccf0321bd",
-    "url": "/awpir_prev/img/pwa/180.png"
-  },
-  {
-    "revision": "1e374941bb47e1e2c1fcf473c08de2d5",
-    "url": "/awpir_prev/img/pwa/192.png"
-  },
-  {
-    "revision": "65271141769cc6b3be5927e696c549f1",
-    "url": "/awpir_prev/img/pwa/512.png"
-  },
-  {
-    "revision": "bd5012e10612fbf42cb2c8f9c7d6ba7f",
-    "url": "/awpir_prev/img/pwa/apple-launch-1125x2436.png"
-  },
-  {
-    "revision": "f932a0373f8e446e80fee7c2e3fa35d2",
-    "url": "/awpir_prev/img/pwa/apple-launch-1242x2208.png"
-  },
-  {
-    "revision": "80f657270abf3659b074c5ee02a8cca2",
-    "url": "/awpir_prev/img/pwa/apple-launch-1242x2688.png"
-  },
-  {
-    "revision": "865b268e9faae244b6a4633e44fa02fb",
-    "url": "/awpir_prev/img/pwa/apple-launch-1536x2048.png"
-  },
-  {
-    "revision": "ee4eb7b6ec3508d312359d009e6cddb6",
-    "url": "/awpir_prev/img/pwa/apple-launch-1668x2224.png"
-  },
-  {
-    "revision": "1773406552206d6fa427c820db059bbd",
-    "url": "/awpir_prev/img/pwa/apple-launch-1668x2388.png"
-  },
-  {
-    "revision": "ccb36fd2f85b7fdf3ac2b1bb4fe56841",
-    "url": "/awpir_prev/img/pwa/apple-launch-2048x2732.png"
-  },
-  {
-    "revision": "3d6525e91dee326cf9f7eeb685ab77e1",
-    "url": "/awpir_prev/img/pwa/apple-launch-750x1334.png"
-  },
-  {
-    "revision": "39f5fa7b49e3f8167a8f55431a981a59",
-    "url": "/awpir_prev/img/pwa/apple-launch-828x1792.png"
-  },
-  {
     "revision": "e06cab0b54ffff3469eddac88b6c262b",
     "url": "/awpir_prev/img/slide_1.jpg"
   },
@@ -188,7 +132,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/awpir_prev/img/value_3.svg"
   },
   {
-    "revision": "b4e4158fe573f42cd2ed3d673454f75d",
+    "revision": "36b0699e83c972a2f17ef013f16203e9",
     "url": "/awpir_prev/index.html"
   },
   {
